@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in Mathematics at the University of Utah.  I am
-working is Tommaso de Fernex.  Before living in Utah, I received a B.S. and
-M.S. at Michigan State University.
+I am a third year PhD student in Mathematics at the University of Utah and I am
+working with [Tommaso de Fernex](https://www.math.utah.edu/~defernex/).  Before
+moving to Utah, I received a B.S. and M.S. at Michigan State University.
