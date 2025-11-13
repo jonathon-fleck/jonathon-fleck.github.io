@@ -18,6 +18,7 @@ redirect_from:
 * M. A. Langford, K. H. Chan, J. E. Fleck, P. K. McKinley and B. H. C. Cheng, "MoDALAS: Model-Driven Assurance for Learning-Enabled Autonomous Systems," 2021 ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), Fukuoka, Japan, 2021, pp. 182-193, doi: 10.1109/MODELS50736.2021.00027.
   
 ## Teaching
+* Engineering Calculus II, Spring 2026, University of Utah
 * Engineering Calculus II, Spring 2025, University of Utah
 * Differential Equations and Linear Algebra, Fall 2024, University of Utah
 * Calculus III, Spring 2024, University of Utah
@@ -41,5 +42,5 @@ redirect_from:
 
 ## Skills
 * Operating Systems: Unix, Linux, Microsoft Windows
-* Programming Languages: C, C++, Java, Python, Latex
+* Programming Languages: C, C++, Java, Python, LaTeX
   
