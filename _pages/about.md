@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student in Mathematics at the University of Utah and I am
-working with [Tommaso de Fernex](https://www.math.utah.edu/~defernex/).  Before
+I am a fifth year PhD student in Mathematics at the University of Utah and I am
+working with [Aaron Bertram](https://www.math.utah.edu/~bertram/).  Before
 moving to Utah, I received my B.S. and M.S. at Michigan State University.
 
-I am interested in the birational geometry of higher-dimensional algebraic varieties,
-namely their Cremona groups and singularities. Recently, I have been focusing on Fano
-hypersurfaces and, more generally, Mori fiber spaces and their birational rigidity
-via the method of maximal singularities.  As an application, I am considering how
-this can be used to determine rationality over (non-closed) fields.
+I am interested in algebraic geometry.  Recently, I have been focused on applying
+representation theory and combinatorial structures to study stability conditions
+on the derived category of coherent sheaves on a projective variety.
