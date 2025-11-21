@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Mathematics, University of Utah, 2026 (expected)
+* Ph.D in Mathematics, University of Utah, 2027 (expected)
 * M.S. in Computer Science, Michigan State University, 2021
 * B.S. in Computer Science and Mathematics, Michigan State University, 2019
 
