@@ -33,7 +33,7 @@ redirect_from:
 
 ## Talks
 * Rationality and the Method of Maximal Singularities, Spring 2025
-* Morita Theorems, Topics in Homologicak Algebra, Spring 2025
+* Morita Theorems, Topics in Homological Algebra, Spring 2025
 * Castlenuovo-Mumford Regularity, BAGELS, Fall 2023
 
 ## Service and leadership
