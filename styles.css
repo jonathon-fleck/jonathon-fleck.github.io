@@ -1,0 +1,57 @@
+/* Div Properties */
+div {
+    /* border: 3px solid #000000; */
+}
+
+#picture {
+    padding: 25px;
+}
+
+#contact {
+    justify-content: left;
+}
+
+#contact_type {
+    width: 55px;
+}
+
+#contact_field {
+    padding-left: 1em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.sidebar {
+    padding: 0em;
+    width: 200px;
+    background-color: lightgray;
+}
+
+div.main {
+    flex: 90%;
+    padding: 1em;
+    background-color: rgba(68, 125, 22, 0.1);
+}
+
+/* Link Properties */
+
+.sidebar a {
+    padding-left: 5px;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+a.active {
+    background-color: rgba(0,0, 0, 0.1);
+    border-style: none none none solid;
+    border-color: rgb(68, 125, 22);
+}
+
+a:hover {
+    background-color: rgba(255,255,255,0.3);
+}
